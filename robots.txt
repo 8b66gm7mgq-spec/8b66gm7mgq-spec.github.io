@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /null2
+Disallow: /sme
+
+Sitemap: https://tsukurimakool.com/sitemap.xml
